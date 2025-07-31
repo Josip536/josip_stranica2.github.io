@@ -45,10 +45,10 @@
     <h3 style="text-align:center;">Dobrodošli na moju stranicu, nadam se da će vam se svidjeti!</h3>
 
     <div class="gumb-container">
-        <a href="Josip_Tadić_Životopis.pdf" target="_black"><button class="gumb">Životopis</button></a>
-        <a href="Josip_Tadić_Motivacijsko_pismo_2.pdf"><button class="gumb">Motivacijsko pismo</button></a>
+        <a href="Josip_Tadić_Životopis.pdf" target="_blank"><button class="gumb">Životopis</button></a>
+        <a href="Josip_Tadić_Motivacijsko_pismo_2.pdf" target="blank"><button class="gumb">Motivacijsko pismo</button></a>
         <a href="LinkedIn profil.pdf"><button class="gumb">LinkedIn profil</button></a>
-        <a href="snimke 2.pdf"><button class="gumb">Ekranski prikaz</button></a>
+        <a href="snimke 2.pdf"> target="blank" <button class="gumb">Ekranski prikaz</button></a>
     </div>
     
 </body>
