@@ -15,6 +15,9 @@
         <div class="naslov">
             <h1>moja stranica</h1>
         </div>
-
+        <h1>Magistar ekonomije</h1>
+        <h2>Dobrodošli na moju stranicu, nadam se da će vam se svidjeti!</h2>
+        
     </body>
+    
 </html>
