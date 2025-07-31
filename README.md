@@ -13,10 +13,10 @@
     </head>
     <body>
         <div class="naslov">
-            <h1>moja stranica</h1>
+            <h1>Josip Tadić</h1>
         </div>
-        <h1>Magistar ekonomije</h1>
-        <h2>Dobrodošli na moju stranicu, nadam se da će vam se svidjeti!</h2>
+        <h2>Magistar ekonomije</h2>
+        <h3>Dobrodošli na moju stranicu, nadam se da će vam se svidjeti!</h3>
         
     </body>
     
