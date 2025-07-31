@@ -45,8 +45,8 @@
     <h3 style="text-align:center;">Dobrodošli na moju stranicu, nadam se da će vam se svidjeti!</h3>
 
     <div class="gumb-container">
-        <a href="Životopis.pdf"><button class="gumb">Životopis</button></a>
-        <a href="Motivacijsko pismo 2.pdf"><button class="gumb">Motivacijsko pismo</button></a>
+        <a href="Josip_tadić_Životopis.pdf"><button class="gumb">Životopis</button></a>
+        <a href="josip_tadić_Motivacijsko_pismo_2.pdf"><button class="gumb">Motivacijsko pismo</button></a>
         <a href="LinkedIn profil.pdf"><button class="gumb">LinkedIn profil</button></a>
         <a href="snimke 2.pdf"><button class="gumb">Ekranski prikaz</button></a>
     </div>
