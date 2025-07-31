@@ -41,6 +41,9 @@
     <div class="naslov">
         <h1>Josip Tadić</h1>
     </div>
+    
+    <h2 style="text-align:center;">Magistar ekonomije</h2>
+    <h3 style="text-align:center;">Dobrodošli na moju stranicu, nadam se da će vam se svidjeti!</h3>
 
     <div class="gumb-container">
         <a href="zivotopis.pdf"><button class="gumb">Životopis</button></a>
@@ -48,9 +51,6 @@
         <a href="dok2.pdf"><button class="gumb">Dok 2</button></a>
         <a href="dok3.pdf"><button class="gumb">Dok 3</button></a>
     </div>
-
-    <h2 style="text-align:center;">Magistar ekonomije</h2>
-    <h3 style="text-align:center;">Dobrodošli na moju stranicu, nadam se da će vam se svidjeti!</h3>
-
+    
 </body>
 </html>
