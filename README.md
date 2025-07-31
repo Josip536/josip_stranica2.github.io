@@ -46,9 +46,9 @@
 
     <div class="gumb-container">
         <a href="Životopis.pdf"><button class="gumb">Životopis</button></a>
-        <a href="Motivacijsko pismo.pdf"><button class="gumb">Motivacijsko pismo</button></a>
+        <a href="Motivacijsko pismo 2.pdf"><button class="gumb">Motivacijsko pismo</button></a>
         <a href="LinkedIn profil.pdf"><button class="gumb">LinkedIn profil</button></a>
-        <a href="Ekranski prikaz.pdf"><button class="gumb">Ekranski prikaz</button></a>
+        <a href="snimke 2.pdf"><button class="gumb">Ekranski prikaz</button></a>
     </div>
     
 </body>
