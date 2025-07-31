@@ -47,7 +47,7 @@
     <div class="gumb-container">
         <a href="Josip_Tadić_Životopis.pdf" target="_blank"><button class="gumb">Životopis</button></a>
         <a href="Josip_Tadić_Motivacijsko_pismo_2.pdf" target="_blank"><button class="gumb">Motivacijsko pismo</button></a>
-        <a href="LinkedIn profil.pdf"><button class="gumb">LinkedIn profil</button></a>
+        <a href="https://www.linkedin.com/in/josip-tadi%C4%87-031588172/" targer="_blank"><button class="gumb">LinkedIn profil</button></a>
         <a href="snimke 2.pdf" target="_blank"><button class="gumb">Ekranski prikaz</button></a>
     </div>
     
