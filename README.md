@@ -45,10 +45,10 @@
     <h3 style="text-align:center;">Dobrodošli na moju stranicu, nadam se da će vam se svidjeti!</h3>
 
     <div class="gumb-container">
-        <a href="zivotopis.pdf"><button class="gumb">Životopis</button></a>
-        <a href="dok1.pdf"><button class="gumb">Dok 1</button></a>
-        <a href="dok2.pdf"><button class="gumb">Dok 2</button></a>
-        <a href="dok3.pdf"><button class="gumb">Dok 3</button></a>
+        <a href="Životopis.pdf"><button class="gumb">Životopis</button></a>
+        <a href="Motivacijsko pismo.pdf"><button class="gumb">Motivacijsko pismo</button></a>
+        <a href="LinkedIn profil.pdf"><button class="gumb">LinkedIn profil</button></a>
+        <a href="Ekranski prikaz.pdf"><button class="gumb">Ekranski prikaz</button></a>
     </div>
     
 </body>
