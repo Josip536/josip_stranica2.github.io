@@ -1,22 +1,24 @@
+<!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="UTF-8">
-        <title>Josip Tadić</title>
-        <title>Gumbi</title>
-        <style>
+<head>
+    <meta charset="UTF-8">
+    <title>Josip Tadić</title>
+    <style>
         .naslov {
             background-color: blue;
             color: white;
             padding: 20px;
             text-align: center;
         }
-        .gumb-contains {
+
+        .gumb-container {
             display: flex;
             flex-direction: column;
             align-items: center;
             margin-top: 30px;
         }
-            .gumb {
+
+        .gumb {
             width: 150px;
             height: 150px;
             background-color: #007BFF;
@@ -28,27 +30,27 @@
             cursor: pointer;
             transition: background-color 0.3s;
         }
-            .gumb: hover {
+
+        .gumb:hover {
             background-color: #0056b3;
         }
-        </style>
-    </head>
-    <body>
-        <div class="naslov">
-            <h1>Josip Tadić</h1>
-        <div class="gumb-container">
-            <a href="zivotopis.pdf><button class="gumb">Zivotopis</button></a>
-            <a href="dok1.pdf><button class="gumb">dok1</button></a>
-            <a href="dok2.pdf><button class="gumb">dok2</button></a>
-            <a href="dok3.pdf><button class="gumb">dok3</button></a>
-        </div>
-            
-        <h2>Magistar ekonomije</h2>
-        <h3>Dobrodošli na moju stranicu, nadam se da će vam se svidjeti!</h3>
-        
-    </body>
-<main>
-  
-</main>
+    </style>
+</head>
+<body>
 
+    <div class="naslov">
+        <h1>Josip Tadić</h1>
+    </div>
+
+    <div class="gumb-container">
+        <a href="zivotopis.pdf"><button class="gumb">Životopis</button></a>
+        <a href="dok1.pdf"><button class="gumb">Dok 1</button></a>
+        <a href="dok2.pdf"><button class="gumb">Dok 2</button></a>
+        <a href="dok3.pdf"><button class="gumb">Dok 3</button></a>
+    </div>
+
+    <h2 style="text-align:center;">Magistar ekonomije</h2>
+    <h3 style="text-align:center;">Dobrodošli na moju stranicu, nadam se da će vam se svidjeti!</h3>
+
+</body>
 </html>
