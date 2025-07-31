@@ -1,7 +1,7 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>moja stranica</title>
+        <title>Josip Tadić</title>
         <style>
         .naslov {
             background-color: blue;
