@@ -16,7 +16,7 @@
             align-items: center;
             margin-top: 30px;
 
-            background-image: url ("arena_wide_2_K.jpg");
+            background-image: url("arena_wide_2_K.jpg");
             background-size:cover;
             background-position: center;
             padding: 50px 0;
