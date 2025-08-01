@@ -41,7 +41,7 @@
         .gumb {
             width: 150px;
             height: 150px;
-            background-color: #8297FE;
+            background-color: #7AA8D6;
             color: white;
             font-size: 20px;
             margin: 10px;
