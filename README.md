@@ -2,6 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Josip Tadić</title>
+    <title>Magistar ekonomije</title>
     <style>
         .naslov {
             background-color: #7AA8D6;
@@ -62,6 +63,7 @@
 
     <div class="naslov">
         <h1>Josip Tadić</h1>
+        <h2>Magistar ekonomije</h2>
     </div>
     
     <h2 style="text-align:center;">Magistar ekonomije</h2>
