@@ -43,7 +43,7 @@
             height: 150px;
             background-color: #007BFF;
             color: white;
-            font-size: 20px;
+            font-size: 50px;
             margin: 10px;
             border: none;
             border-radius: 10px;
