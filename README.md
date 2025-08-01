@@ -26,7 +26,7 @@
         }
 
         .gumb-overlay {
-           background-color: rgba(0, 0, 0, 0.5); /* tamni sloj */
+           background-color: rgba(0, 0, 0, 0.5);
            display: flex;
            flex-direction: column;
            align-items: center;
