@@ -9,6 +9,10 @@
             color: white;
             padding: 20px;
             text-align: center;
+             <a href="Potvrda_o_diplomiranju.jpg" target="_blank">
+        <h1>univ.mag.oec. Josip Tadić</h1>
+    </a>
+            
         }
 
         .gumb-container {
