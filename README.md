@@ -2,7 +2,6 @@
 <head>
     <meta charset="UTF-8">
     <title>univ. mag. oec. Josip Tadić</title>
-    <title>Dobrodošli na moju stranicu, nadam se da će vam se svidjeti</title>
     <style>
         .naslov {
             background-color: #7AA8D6;
@@ -86,9 +85,10 @@
             <a href="Potvrda_o_diplomiranju.pdf" target="_blank">
             <img src="kapa.jpg" alt="kapa" class="kapa">
         </a>
+        </div>
+    
         <h2>Dobrodošli na moju stranicu, nadam se da će vam se svidjeti!</h2>
-    </div>
-
+    
     <div class="gumb-container">
         <a href="Josip_Tadić_Životopis.pdf" target="_blank"><button class="gumb">Životopis</button></a>
         <a href="Josip_Tadić_Motivacijsko_pismo_2.pdf" target="_blank"><button class="gumb">Motivacijsko pismo</button></a>
