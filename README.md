@@ -77,8 +77,8 @@
 
     <div class="naslov">
             <h1>univ. mag. oec. Josip Tadić</h1>
-            <a href="Potvrda_o_diplomiranju.pdf" target:"_blank">
-            <img src="kapa.jpg" alt="kapa" class="kapa"
+            <a href="Potvrda_o_diplomiranju.pdf" target="_blank">
+            <img src="kapa.jpg" alt="kapa" class="kapa">
         </a>
         <h2>Dobrodošli na moju stranicu, nadam se da će vam se svidjeti!</h2>
     </div>
