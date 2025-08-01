@@ -25,7 +25,8 @@
         }
 
         .gumb-overlay {
-           background-color: rgba(0, 0, 0, 0.5);
+           background-color: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.3));
+           background-filter: blur(5px);
            display: flex;
            flex-direction: column;
            align-items: center;
@@ -48,11 +49,12 @@
             border: none;
             border-radius: 10px;
             cursor: pointer;
-            transition: background-color 0.3s;
+            transition: transform 0.3s ease, background-color 0.3s ease;
         }
 
         .gumb:hover {
             background-color: #0056b3;
+            transform: scale(1.05);
         }
     </style>
 </head>
