@@ -4,7 +4,7 @@
     <title>Josip Tadić</title>
     <style>
         .naslov {
-            background-color: blue;
+            background-color: #003366;
             color: white;
             padding: 20px;
             text-align: center;
@@ -41,7 +41,7 @@
         .gumb {
             width: 150px;
             height: 150px;
-            background-color: #003366;
+            background-color: #8297FE;
             color: white;
             font-size: 20px;
             margin: 10px;
