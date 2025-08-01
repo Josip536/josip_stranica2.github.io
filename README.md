@@ -4,7 +4,7 @@
     <title>Josip Tadić</title>
     <style>
         .naslov {
-            background-color: #003366;
+            background-color: #7AA8D6;
             color: white;
             padding: 20px;
             text-align: center;
