@@ -1,8 +1,8 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Josip Tadić</title>
-    <title>Magistar ekonomije</title>
+    <title>univ. mag. oec. Josip Tadić</title>
+    <title>Dobrodošli na moju stranicu, nadam se da će vam se svidjeti</title>
     <style>
         .naslov {
             background-color: #7AA8D6;
