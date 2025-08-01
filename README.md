@@ -62,11 +62,10 @@
 <body>
 
     <div class="naslov">
-        <h1>univ. mag. oec. Josip Tadić</h1>
-        <h2>Dobrodošli na moju stranicu, nadam se da će vam se svidjeti!</h2>
         <a href="Potvrda_o_diplomiranju.jpg" target="_blank">
             <h1>univ. mag. oec. Josip Tadić</h1>
         </a>
+        <h2>Dobrodošli na moju stranicu, nadam se da će vam se svidjeti!</h2>
     </div>
 
     <div class="gumb-container">
