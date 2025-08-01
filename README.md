@@ -62,7 +62,6 @@
 <body>
 
     <div class="naslov">
-        <a href="Potvrda_o_diplomiranju.pdf" target="_blank">
             <h1>univ. mag. oec. Josip Tadić</h1>
         </a>
         <h2>Dobrodošli na moju stranicu, nadam se da će vam se svidjeti!</h2>
