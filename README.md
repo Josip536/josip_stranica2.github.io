@@ -10,6 +10,11 @@
             padding: 20px;
             text-align: center;
                 }
+        .ime-i-kapa {
+           display: inline-flex;     
+           align-items: center;      
+           gap: 10px;                
+                    }
 
          .naslov h1 {
             margin: 0;
