@@ -16,11 +16,26 @@
             align-items: center;
             margin-top: 30px;
 
+            position: relative;
+            margin-top 30px;
             background-image: url("arena_wide_2_K.jpg");
             background-size:cover;
             background-position: center;
             padding: 50px 0;
+            z-index: 1;
         }
+
+        .gumb-overlay {
+           background-color: rgba(0, 0, 0, 0.5); /* tamni sloj */
+           display: flex;
+           flex-direction: column;
+           align-items: center;
+           padding: 50px 0;
+           width: 100%;
+           height: 100%;
+           position: relative;
+           z-index: 2;
+}
 
         .gumb {
             width: 150px;
