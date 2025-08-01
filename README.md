@@ -9,11 +9,7 @@
             color: white;
             padding: 20px;
             text-align: center;
-             <a href="Potvrda_o_diplomiranju.jpg" target="_blank">
-        <h1>univ.mag.oec. Josip Tadić</h1>
-    </a>
-            
-        }
+                }
 
         .gumb-container {
             display: flex;
@@ -68,6 +64,9 @@
     <div class="naslov">
         <h1>univ. mag. oec. Josip Tadić</h1>
         <h2>Dobrodošli na moju stranicu, nadam se da će vam se svidjeti!</h2>
+        <a href="Potvrda_o_diplomiranju.jpg" target="_blank">
+            <h1>univ. mag. oec. Josip Tadić</h1>
+        </a>
     </div>
 
     <div class="gumb-container">
