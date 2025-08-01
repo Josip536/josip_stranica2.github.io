@@ -65,8 +65,6 @@
         <h1>univ. mag. oec. Josip Tadić</h1>
         <h2>Dobrodošli na moju stranicu, nadam se da će vam se svidjeti!</h2>
     </div>
-    
-    <h2 style="text-align:center;">Dobrodošli na moju stranicu, nadam se da će vam se svidjeti</h2>
 
     <div class="gumb-container">
         <a href="Josip_Tadić_Životopis.pdf" target="_blank"><button class="gumb">Životopis</button></a>
