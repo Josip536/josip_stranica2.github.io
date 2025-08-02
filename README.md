@@ -94,5 +94,5 @@
         <a href="Josip_Tadić_Motivacijsko_pismo_2.pdf" target="_blank"><button class="gumb">Motivacijsko pismo</button></a>
         <a href="https://www.linkedin.com/in/josip-tadi%C4%87-031588172/" target="_blank"><button class="gumb">LinkedIn profil</button></a>
         <a href="snimke3.pdf" target="_blank"><button class="gumb">Ekranski prikaz</button></a>
-        <a href="https://josip536.github.io/kalkulator.github.io/" target="_blank">button class="gumb">Kalkulator</button>/a>
+        <a href="https://josip536.github.io/kalkulator.github.io/" target="_blank"><button class="gumb">Kalkulator</button></a>
     </div>
