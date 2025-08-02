@@ -97,7 +97,6 @@
         <a href="https://josip536.github.io/kalkulator.github.io/" target="_blank"><button class="gumb">Kalkulator</button></a>
     </div>
 
-    <h3>Ostavi svoj komentar</h3>
 <button onclick="window.open('https://docs.google.com/forms/d/e/1FAIpQLSe6aM4X-9VqXZJ3SZkrtoimaJRJ2bT0KKRfnirBSkbXqmjREg/viewform', '_blank')">
   Ostavi komentar
 </button>
