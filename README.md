@@ -96,3 +96,10 @@
         <a href="snimke3.pdf" target="_blank"><button class="gumb">Ekranski prikaz</button></a>
         <a href="https://josip536.github.io/kalkulator.github.io/" target="_blank"><button class="gumb">Kalkulator</button></a>
     </div>
+
+    <h3>Ostavi svoj komentar</h3>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe6aM4X-9VqXZJ3SZkrtoimaJRJ2bT0KKRfnirBSkbXqmjREg/viewform?embedded=true" 
+    width="640" height="505" frameborder="0" marginheight="0" marginwidth="0">
+  Učitavanje…
+</iframe>
+
