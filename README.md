@@ -98,8 +98,6 @@
     </div>
 
     <h3>Ostavi svoj komentar</h3>
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe6aM4X-9VqXZJ3SZkrtoimaJRJ2bT0KKRfnirBSkbXqmjREg/viewform?embedded=true" 
-    width="640" height="505" frameborder="0" marginheight="0" marginwidth="0">
-  Učitavanje…
-</iframe>
-
+<button onclick="window.open('https://docs.google.com/forms/d/e/1FAIpQLSe6aM4X-9VqXZJ3SZkrtoimaJRJ2bT0KKRfnirBSkbXqmjREg/viewform', '_blank')">
+  Ostavi komentar
+</button>
